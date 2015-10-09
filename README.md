@@ -5,7 +5,7 @@ Technologies: JSP, JPA, JSON, Spring, JUnit
 Summary: The `spring_lab` Crud
 
  
-Build and Deploy the Quickstart
+Build and Deploy
 -------------------------
 
 2. Open a command line and navigate to the root directory of this project.
