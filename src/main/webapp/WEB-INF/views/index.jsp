@@ -15,7 +15,7 @@
         <h1>Spring Lab!</h1>
 
         <form:form commandName="newMember" id="reg">
-            <h2>Member Registration</h2>
+            <h2>User Registration</h2>
             
             <table>
                 <tbody>
